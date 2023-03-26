@@ -8,8 +8,6 @@ public class Finish : MonoBehaviour
     ItemCollector itemCollector;
     PlayerMovement playerMovement;
 
-    [SerializeField] int coinsNeeded;
-
     void Start()
     {
         itemCollector = FindObjectOfType<ItemCollector>();
@@ -17,7 +15,7 @@ public class Finish : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(itemCollector.coinsCollected == coinsNeeded)
+        if(itemCollector.coinsCollected == itemCollector.coinsNeeded)
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);    
         }

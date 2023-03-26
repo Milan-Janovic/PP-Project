@@ -9,7 +9,7 @@ public class ItemCollector : MonoBehaviour
 
     [SerializeField] public Text coinsText;
     [SerializeField] AudioSource collectionSound;
-    [SerializeField] int coinsNeeded;
+    [SerializeField] public int coinsNeeded;
 
     private void OnTriggerEnter(Collider other)
     {
