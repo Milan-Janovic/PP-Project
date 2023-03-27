@@ -727,6 +727,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 111562775840344503, guid: d856f12d59c704ef485db632100fbf6c, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 111562775840344504, guid: d856f12d59c704ef485db632100fbf6c, type: 3}
       propertyPath: m_Name
       value: LeftArm
