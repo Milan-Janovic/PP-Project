@@ -235,7 +235,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (3)
+      value: Floor3
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -309,7 +309,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (4)
+      value: Floor6
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -511,7 +511,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3831244990985431495, guid: 0a52d45fab643fb419469246cb548936, type: 3}
       propertyPath: m_Name
-      value: Coin (1)
+      value: Coin2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a52d45fab643fb419469246cb548936, type: 3}
@@ -594,7 +594,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (5)
+      value: Floor5
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -772,7 +772,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (1)
+      value: Floor2
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -993,7 +993,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3831244990985431495, guid: 0a52d45fab643fb419469246cb548936, type: 3}
       propertyPath: m_Name
-      value: Coin
+      value: Coin3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a52d45fab643fb419469246cb548936, type: 3}
@@ -1223,7 +1223,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 956ad2f73332544fd87365087825cc4f, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 5059413ec429c4507bb7bca2286fad19, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.3
   m_Pitch: 1
@@ -1582,7 +1582,7 @@ GameObject:
   - component: {fileID: 1923490223}
   - component: {fileID: 1923490226}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: QuitButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1758,7 +1758,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (2)
+      value: Floor4
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2077,6 +2077,14 @@ PrefabInstance:
     - target: {fileID: 5217569152475809212, guid: b16da67449725e54e9a88403c3c9dd40, type: 3}
       propertyPath: speedY
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5217569152475809212, guid: b16da67449725e54e9a88403c3c9dd40, type: 3}
+      propertyPath: jumpForce
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5217569152475809212, guid: b16da67449725e54e9a88403c3c9dd40, type: 3}
+      propertyPath: movementSpeed
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5217569152475809213, guid: b16da67449725e54e9a88403c3c9dd40, type: 3}
       propertyPath: m_RootOrder

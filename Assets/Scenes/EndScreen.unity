@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 255248395}
   - component: {fileID: 255248394}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: QuitButtonText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -479,7 +479,7 @@ GameObject:
   - component: {fileID: 1628938871}
   - component: {fileID: 1628938870}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: EndScreen(Panel)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -556,7 +556,7 @@ GameObject:
   - component: {fileID: 1795327430}
   - component: {fileID: 1795327429}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: EndGameText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -579,8 +579,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8, y: 94}
-  m_SizeDelta: {x: 1219.2963, y: 80.312}
+  m_AnchoredPosition: {x: 33, y: 106}
+  m_SizeDelta: {x: 1466.4073, y: 80.312}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1795327429
 MonoBehaviour:
@@ -615,7 +615,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Game Over
+  m_Text: Congrats! You have won!
 --- !u!222 &1795327430
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -638,7 +638,7 @@ GameObject:
   - component: {fileID: 1911493848}
   - component: {fileID: 1911493851}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: QuitButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

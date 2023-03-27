@@ -235,7 +235,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (3)
+      value: Floor3
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -243,7 +243,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 6440a4fabadf0b2418799a6034f7c41e, type: 2}
     - target: {fileID: 7506768924097619067, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619067, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_LocalScale.x
@@ -304,7 +304,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (4)
+      value: Floor6
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -312,7 +312,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 6440a4fabadf0b2418799a6034f7c41e, type: 2}
     - target: {fileID: 7506768924097619067, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619067, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_LocalScale.x
@@ -498,7 +498,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3831244990985431495, guid: 0a52d45fab643fb419469246cb548936, type: 3}
       propertyPath: m_Name
-      value: Coin (1)
+      value: Coin2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a52d45fab643fb419469246cb548936, type: 3}
@@ -533,10 +533,10 @@ Transform:
   - {fileID: 998292812}
   - {fileID: 671610163}
   - {fileID: 944561369}
-  - {fileID: 683860339}
-  - {fileID: 44058864}
   - {fileID: 1581712102}
+  - {fileID: 683860339}
   - {fileID: 1084629694}
+  - {fileID: 44058864}
   - {fileID: 2519727535614220755}
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -550,7 +550,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (5)
+      value: Floor5
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -558,7 +558,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 6440a4fabadf0b2418799a6034f7c41e, type: 2}
     - target: {fileID: 7506768924097619067, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619067, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_LocalScale.x
@@ -723,7 +723,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (1)
+      value: Floor2
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -881,7 +881,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3831244990985431495, guid: 0a52d45fab643fb419469246cb548936, type: 3}
       propertyPath: m_Name
-      value: Coin
+      value: Coin3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a52d45fab643fb419469246cb548936, type: 3}
@@ -1320,7 +1320,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3831244990985431495, guid: 0a52d45fab643fb419469246cb548936, type: 3}
       propertyPath: m_Name
-      value: Coin (2)
+      value: Coin4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a52d45fab643fb419469246cb548936, type: 3}
@@ -1348,7 +1348,7 @@ GameObject:
   - component: {fileID: 1923490223}
   - component: {fileID: 1923490226}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: QuitButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1490,7 +1490,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (2)
+      value: Floor4
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1498,7 +1498,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 6440a4fabadf0b2418799a6034f7c41e, type: 2}
     - target: {fileID: 7506768924097619067, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619067, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_LocalScale.x
@@ -1801,6 +1801,14 @@ PrefabInstance:
     - target: {fileID: 5217569152475809212, guid: b16da67449725e54e9a88403c3c9dd40, type: 3}
       propertyPath: speedY
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5217569152475809212, guid: b16da67449725e54e9a88403c3c9dd40, type: 3}
+      propertyPath: jumpForce
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5217569152475809212, guid: b16da67449725e54e9a88403c3c9dd40, type: 3}
+      propertyPath: movementSpeed
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5217569152475809213, guid: b16da67449725e54e9a88403c3c9dd40, type: 3}
       propertyPath: m_RootOrder

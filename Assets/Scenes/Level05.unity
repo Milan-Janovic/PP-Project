@@ -236,7 +236,7 @@ GameObject:
   m_Component:
   - component: {fileID: 41450492}
   m_Layer: 0
-  m_Name: Waypoint3
+  m_Name: Waypoint1
   m_TagString: Untagged
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -266,7 +266,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (4)
+      value: Floor9
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -274,7 +274,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 7d53f22039b5eba47b74dccdc78bc951, type: 2}
     - target: {fileID: 7506768924097619067, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619067, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_LocalScale.x
@@ -453,7 +453,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (3)
+      value: Floor4
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -545,7 +545,7 @@ Transform:
   - {fileID: 996492926}
   - {fileID: 1005293221}
   m_Father: {fileID: 494399017}
-  m_RootOrder: 9
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &386400592
 GameObject:
@@ -579,7 +579,7 @@ Transform:
   - {fileID: 1081095886}
   - {fileID: 874563781}
   m_Father: {fileID: 494399017}
-  m_RootOrder: 6
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &494399016
 GameObject:
@@ -613,6 +613,9 @@ Transform:
   - {fileID: 944561369}
   - {fileID: 683860339}
   - {fileID: 95703241}
+  - {fileID: 44058864}
+  - {fileID: 2519727535614220755}
+  - {fileID: 1266973797}
   - {fileID: 625582887}
   - {fileID: 497281141}
   - {fileID: 386400593}
@@ -620,9 +623,6 @@ Transform:
   - {fileID: 2040531895}
   - {fileID: 351513222}
   - {fileID: 998292812}
-  - {fileID: 2519727535614220755}
-  - {fileID: 44058864}
-  - {fileID: 1266973797}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -658,7 +658,7 @@ Transform:
   - {fileID: 41450492}
   - {fileID: 1564183328}
   m_Father: {fileID: 494399017}
-  m_RootOrder: 5
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &594518123
 PrefabInstance:
@@ -669,7 +669,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (3)
+      value: Floor8
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -770,7 +770,7 @@ Transform:
   - {fileID: 1741214801}
   - {fileID: 1502634253}
   m_Father: {fileID: 494399017}
-  m_RootOrder: 4
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &671610163 stripped
 Transform:
@@ -948,7 +948,7 @@ GameObject:
   m_Component:
   - component: {fileID: 874563781}
   m_Layer: 0
-  m_Name: WayPoint6
+  m_Name: WayPoint2
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -978,7 +978,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (1)
+      value: Floor2
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1123,7 +1123,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3831244990985431495, guid: 0a52d45fab643fb419469246cb548936, type: 3}
       propertyPath: m_Name
-      value: Coin
+      value: Coin3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a52d45fab643fb419469246cb548936, type: 3}
@@ -1182,13 +1182,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 998292811}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.03, y: 0, z: 0}
+  m_LocalPosition: {x: -2.03, y: 0, z: 0.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1853168825}
   m_Father: {fileID: 494399017}
-  m_RootOrder: 10
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1005293220
 GameObject:
@@ -1238,7 +1238,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2276868085805638688, guid: ab49c651ebcc6174383c760e2e5587dd, type: 3}
       propertyPath: m_Name
-      value: Enemy
+      value: Enemy2
       objectReference: {fileID: 0}
     - target: {fileID: 2276868085805638702, guid: ab49c651ebcc6174383c760e2e5587dd, type: 3}
       propertyPath: wayPoints.Array.data[0]
@@ -1312,7 +1312,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1081095886}
   m_Layer: 0
-  m_Name: WayPoint5
+  m_Name: WayPoint1
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -1390,7 +1390,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3831244990985431495, guid: 0a52d45fab643fb419469246cb548936, type: 3}
       propertyPath: m_Name
-      value: Coin
+      value: Coin2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a52d45fab643fb419469246cb548936, type: 3}
@@ -1512,7 +1512,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5654197339433934524, guid: 504712390eb34b946873d7f1bb40b62c, type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5654197339433934524, guid: 504712390eb34b946873d7f1bb40b62c, type: 3}
       propertyPath: m_LocalScale.x
@@ -1607,7 +1607,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1243495600}
   m_Layer: 0
-  m_Name: Waypoint7
+  m_Name: Waypoint1
   m_TagString: Untagged
   m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -1883,7 +1883,7 @@ Transform:
   - {fileID: 1243495600}
   - {fileID: 1719813314}
   m_Father: {fileID: 494399017}
-  m_RootOrder: 7
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1460493406
 GameObject:
@@ -1989,7 +1989,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (5)
+      value: Floor6
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2059,7 +2059,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1564183328}
   m_Layer: 0
-  m_Name: Waypoint4
+  m_Name: Waypoint2
   m_TagString: Untagged
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -2122,7 +2122,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (4)
+      value: Floor5
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2272,7 +2272,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1719813314}
   m_Layer: 0
-  m_Name: Waypoint8
+  m_Name: Waypoint2
   m_TagString: Untagged
   m_Icon: {fileID: 2488908585195742037, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -2407,7 +2407,7 @@ GameObject:
   - component: {fileID: 1923490223}
   - component: {fileID: 1923490226}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: QuitButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2577,7 +2577,7 @@ Transform:
   - {fileID: 977441377}
   - {fileID: 1917880127}
   m_Father: {fileID: 494399017}
-  m_RootOrder: 8
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2077362104
 PrefabInstance:
@@ -2588,7 +2588,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (2)
+      value: Floor7
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2657,7 +2657,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7506768924097619047, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Name
-      value: Floor (2)
+      value: Floor3
       objectReference: {fileID: 0}
     - target: {fileID: 7506768924097619065, guid: 9fde0f1f03f02f343996ec50d26057a9, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2852,7 +2852,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3633850312581087151, guid: 773c9f8efead02249b591d70fa02d696, type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 3633850312581087151, guid: 773c9f8efead02249b591d70fa02d696, type: 3}
       propertyPath: m_LocalScale.x
@@ -2984,6 +2984,14 @@ PrefabInstance:
     - target: {fileID: 5217569152475809212, guid: b16da67449725e54e9a88403c3c9dd40, type: 3}
       propertyPath: speedY
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5217569152475809212, guid: b16da67449725e54e9a88403c3c9dd40, type: 3}
+      propertyPath: jumpForce
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5217569152475809212, guid: b16da67449725e54e9a88403c3c9dd40, type: 3}
+      propertyPath: movementSpeed
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5217569152475809213, guid: b16da67449725e54e9a88403c3c9dd40, type: 3}
       propertyPath: m_RootOrder
